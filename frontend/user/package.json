@@ -1,7 +1,6 @@
 {
   "name": "user",
   "private": true,
-  "homepage": "./e-com-user/",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
