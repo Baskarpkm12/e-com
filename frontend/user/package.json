@@ -1,7 +1,8 @@
 {
   "name": "user",
   "private": true,
-  "version": "0.0.0",
+  "homepage": "./e-com-user/",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",

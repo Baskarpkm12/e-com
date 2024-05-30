@@ -2,6 +2,7 @@
   "name": "wherhouse",
   "private": true,
   "version": "1.0.0",
+  "homepage": "./e-com-user/",
   "type": "module",
   "scripts": {
     "dev": "vite",
